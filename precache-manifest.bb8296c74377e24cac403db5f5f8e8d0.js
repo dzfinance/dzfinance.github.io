@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "624972481ec2414bd041ed4b8b754baf",
+    "revision": "22d88a01ca9b336d336f72ab4f4c4aa5",
     "url": "/dzfinance.github.io/index.html"
   },
   {
-    "revision": "375c2cff7fbfdbcdc83f",
+    "revision": "54b92295388e9e249228",
     "url": "/dzfinance.github.io/static/css/2.c2fdf206.chunk.css"
   },
   {
-    "revision": "3e81882d85bb935ca0a4",
-    "url": "/dzfinance.github.io/static/css/main.c4764aba.chunk.css"
+    "revision": "1ce2c0063e6f0952c79f",
+    "url": "/dzfinance.github.io/static/css/main.596ca230.chunk.css"
   },
   {
-    "revision": "375c2cff7fbfdbcdc83f",
-    "url": "/dzfinance.github.io/static/js/2.78e0a9ba.chunk.js"
+    "revision": "54b92295388e9e249228",
+    "url": "/dzfinance.github.io/static/js/2.971e1154.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/dzfinance.github.io/static/js/2.78e0a9ba.chunk.js.LICENSE.txt"
+    "url": "/dzfinance.github.io/static/js/2.971e1154.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e81882d85bb935ca0a4",
-    "url": "/dzfinance.github.io/static/js/main.847ab530.chunk.js"
+    "revision": "1ce2c0063e6f0952c79f",
+    "url": "/dzfinance.github.io/static/js/main.7fdf929a.chunk.js"
   },
   {
     "revision": "236828871f67201dde22",
