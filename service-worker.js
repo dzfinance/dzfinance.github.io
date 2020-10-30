@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dzfinance.github.io/precache-manifest.abaf9363880fe9dbaa0a51afd5a07b6b.js"
+  "/dzfinance.github.io/precache-manifest.14ada6af892ea862757e81b301e6d45a.js"
 );
 
 self.addEventListener('message', (event) => {
