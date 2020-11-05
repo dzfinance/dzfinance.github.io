@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/dzfinance.github.io/static/css/main.24864f59.chunk.css",
-    "main.js": "/dzfinance.github.io/static/js/main.75ceb693.chunk.js",
-    "main.js.map": "/dzfinance.github.io/static/js/main.75ceb693.chunk.js.map",
+    "main.js": "/dzfinance.github.io/static/js/main.c9e9563e.chunk.js",
+    "main.js.map": "/dzfinance.github.io/static/js/main.c9e9563e.chunk.js.map",
     "runtime-main.js": "/dzfinance.github.io/static/js/runtime-main.619c3a25.js",
     "runtime-main.js.map": "/dzfinance.github.io/static/js/runtime-main.619c3a25.js.map",
     "static/css/2.c2fdf206.chunk.css": "/dzfinance.github.io/static/css/2.c2fdf206.chunk.css",
-    "static/js/2.6834ebd1.chunk.js": "/dzfinance.github.io/static/js/2.6834ebd1.chunk.js",
-    "static/js/2.6834ebd1.chunk.js.map": "/dzfinance.github.io/static/js/2.6834ebd1.chunk.js.map",
+    "static/js/2.7d5f74cd.chunk.js": "/dzfinance.github.io/static/js/2.7d5f74cd.chunk.js",
+    "static/js/2.7d5f74cd.chunk.js.map": "/dzfinance.github.io/static/js/2.7d5f74cd.chunk.js.map",
     "index.html": "/dzfinance.github.io/index.html",
-    "precache-manifest.dc4f1232c15442b565db6931eeb4da14.js": "/dzfinance.github.io/precache-manifest.dc4f1232c15442b565db6931eeb4da14.js",
+    "precache-manifest.04afd5b48a187b19148c97c5b2060782.js": "/dzfinance.github.io/precache-manifest.04afd5b48a187b19148c97c5b2060782.js",
     "service-worker.js": "/dzfinance.github.io/service-worker.js",
     "static/css/2.c2fdf206.chunk.css.map": "/dzfinance.github.io/static/css/2.c2fdf206.chunk.css.map",
     "static/css/main.24864f59.chunk.css.map": "/dzfinance.github.io/static/css/main.24864f59.chunk.css.map",
-    "static/js/2.6834ebd1.chunk.js.LICENSE.txt": "/dzfinance.github.io/static/js/2.6834ebd1.chunk.js.LICENSE.txt",
+    "static/js/2.7d5f74cd.chunk.js.LICENSE.txt": "/dzfinance.github.io/static/js/2.7d5f74cd.chunk.js.LICENSE.txt",
     "static/media/Photo Aug 17, 5 03 08 PM-4.jpg": "/dzfinance.github.io/static/media/Photo Aug 17, 5 03 08 PM-4.bf14a6a6.jpg",
     "static/media/font-awesome.css": "/dzfinance.github.io/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.619c3a25.js",
     "static/css/2.c2fdf206.chunk.css",
-    "static/js/2.6834ebd1.chunk.js",
+    "static/js/2.7d5f74cd.chunk.js",
     "static/css/main.24864f59.chunk.css",
-    "static/js/main.75ceb693.chunk.js"
+    "static/js/main.c9e9563e.chunk.js"
   ]
 }
