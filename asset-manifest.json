@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dzfinance.github.io/static/css/main.24864f59.chunk.css",
-    "main.js": "/dzfinance.github.io/static/js/main.2c3c8790.chunk.js",
-    "main.js.map": "/dzfinance.github.io/static/js/main.2c3c8790.chunk.js.map",
+    "main.js": "/dzfinance.github.io/static/js/main.a8e187aa.chunk.js",
+    "main.js.map": "/dzfinance.github.io/static/js/main.a8e187aa.chunk.js.map",
     "runtime-main.js": "/dzfinance.github.io/static/js/runtime-main.619c3a25.js",
     "runtime-main.js.map": "/dzfinance.github.io/static/js/runtime-main.619c3a25.js.map",
     "static/css/2.c2fdf206.chunk.css": "/dzfinance.github.io/static/css/2.c2fdf206.chunk.css",
     "static/js/2.7d5f74cd.chunk.js": "/dzfinance.github.io/static/js/2.7d5f74cd.chunk.js",
     "static/js/2.7d5f74cd.chunk.js.map": "/dzfinance.github.io/static/js/2.7d5f74cd.chunk.js.map",
     "index.html": "/dzfinance.github.io/index.html",
-    "precache-manifest.07340b2395d87f810f0918c51a56c38e.js": "/dzfinance.github.io/precache-manifest.07340b2395d87f810f0918c51a56c38e.js",
+    "precache-manifest.296a946be4d61142e46624c9969cd0bc.js": "/dzfinance.github.io/precache-manifest.296a946be4d61142e46624c9969cd0bc.js",
     "service-worker.js": "/dzfinance.github.io/service-worker.js",
     "static/css/2.c2fdf206.chunk.css.map": "/dzfinance.github.io/static/css/2.c2fdf206.chunk.css.map",
     "static/css/main.24864f59.chunk.css.map": "/dzfinance.github.io/static/css/main.24864f59.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.c2fdf206.chunk.css",
     "static/js/2.7d5f74cd.chunk.js",
     "static/css/main.24864f59.chunk.css",
-    "static/js/main.2c3c8790.chunk.js"
+    "static/js/main.a8e187aa.chunk.js"
   ]
 }
