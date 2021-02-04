@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eeb581ba5040e90b80a60287de1dc0e7",
+    "revision": "b1c0ece8abf56aa7512aee7bd1aea465",
     "url": "/dzfinance.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dzfinance.github.io/static/css/2.c2fdf206.chunk.css"
   },
   {
-    "revision": "43ac79a33cf97b9dbda3",
+    "revision": "ead1fc7b2012935a4946",
     "url": "/dzfinance.github.io/static/css/main.24864f59.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dzfinance.github.io/static/js/2.6834ebd1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43ac79a33cf97b9dbda3",
-    "url": "/dzfinance.github.io/static/js/main.08777a00.chunk.js"
+    "revision": "ead1fc7b2012935a4946",
+    "url": "/dzfinance.github.io/static/js/main.4f83bb70.chunk.js"
   },
   {
     "revision": "236828871f67201dde22",
