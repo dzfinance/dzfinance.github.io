@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9380898aca266fe5d530431b06cd91f",
+    "revision": "ef7e64cd3ef8bcb8b05721b305f72773",
     "url": "/dzfinance.github.io/index.html"
   },
   {
